@@ -1,0 +1,16 @@
+.bg-navbar {
+    background: rgba(234, 228, 228, 0.1);
+    backdrop-filter: blur(11.5px);
+    border: solid 1px rgba(6, 141, 169, 0.185);
+    z-index: 10;
+  }
+
+  #comments {
+    position: fixed;
+    bottom: 3rem;
+    padding: 10px;
+}
+
+.shadow-login {
+  box-shadow: 0 4px 6px rgba(255, 127, 80, 0.562);
+}
